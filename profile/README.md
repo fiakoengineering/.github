@@ -9,7 +9,7 @@ FIAKO operates in wide range of engineering design spectrum. We serve our client
 ---
 
 <div align="center">
-  <a href="https://fiako.engineering"><img src="https://github.com/fiakoenjiniring/static-assets/raw/main/logo/fiakodev-logo-simple-1000-400.png" width="60%"/></a>
+  <a href="https://dev.fiako.engineering"><img src="https://github.com/fiakoenjiniring/static-assets/raw/main/logo/fiakodev-logo-simple-1000-400.png" width="60%"/></a>
 </div>
 
 Github fiakoenjiniring dikelola oleh tim **fiako**dev. **fiako**dev merupakan bagian dari FIAKO Engineering dengan fokus dalam _research and development_. Untuk mengenal **fiako**dev lebih lanjut bisa mengunjungi [dev.fiako.engineering](https://dev.fiako.engineering). 
