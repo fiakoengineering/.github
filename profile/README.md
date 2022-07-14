@@ -2,7 +2,9 @@
   <a href="https://fiako.engineering"><img src="https://github.com/fiakoenjiniring/static-assets/raw/main/logo/watermark.png" width="60%"/></a>
 </div>
 
-**PT. Fiako Enjiniring Indonesia** (FIAKO Engineering) is an Avant-Garde engineering consultancy firm in Indonesia. We were established in January 2017. Within our first year, we were acquired some outstanding and remarkable infrastructure projects in Indonesia such as Kalikuto Bridge and Semarang - Batang Toll Road bridge.
+**PT. FIAKO Enjiniring Indonesia**, known as **Fiako Engineering**, is an engineering design company in Indonesia. Our office is situated in the city of Bandung, West Java. The firm comprises young yet well-experienced experts, energetic, multidisciplinary, integrally and holistically way of thinking in terms of engineering. Our aim is to deliver the needs of our clients regarding their design requirements.
+
+FIAKO operates in wide range of engineering design spectrum. We serve our clients ranging from survey and assessments, due diligent and/or feasibility studies (FS) up to detailed engineering design (DED) and construction engineering services (CES). We work closely with clients and we believe that our client oriented passion through project execution is the best way to communicate in order to meet the qualification within time, budget and quality of our design deliverables.
 
 ---
 
@@ -10,7 +12,7 @@
   <a href="https://fiako.engineering"><img src="https://github.com/fiakoenjiniring/static-assets/raw/main/logo/fiakodev-logo-simple-1000-400.png" width="60%"/></a>
 </div>
 
-Github fiakoenjiniring dikelola oleh tim **fiako**dev. **fiako**dev merupakan bagian dari FIAKO Engineering yang fokus dalam _research and development_. Untuk mengenal **fiako**dev lebih lanjut bisa mengunjungi [dev.fiako.engineering](https://dev.fiako.engineering). 
+Github fiakoenjiniring dikelola oleh tim **fiako**dev. **fiako**dev merupakan bagian dari FIAKO Engineering dengan fokus dalam _research and development_. Untuk mengenal **fiako**dev lebih lanjut bisa mengunjungi [dev.fiako.engineering](https://dev.fiako.engineering). 
 
 <!--
 
